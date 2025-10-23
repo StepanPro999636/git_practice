@@ -1,0 +1,5 @@
+metric:,value:
+survived_rate_overall,0.3838383838383838
+survived_by_sex,"{'female': 0.7420382165605095, 'male': 0.18890814558058924}"
+survived_by_pclass,"{1: 0.6296296296296297, 2: 0.47282608695652173, 3: 0.24236252545824846}"
+median_age_by_pclass,"{1: 35.0, 2: 28.0, 3: 28.0}"
